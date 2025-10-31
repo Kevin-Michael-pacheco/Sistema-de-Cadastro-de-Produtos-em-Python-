@@ -20,3 +20,21 @@ Encerrar o programa quando desejar
 
 Linguagem: Python 3
 
+🚀 Como executar
+
+Faça o download ou clone o repositório:
+
+git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+
+
+Abra o arquivo .py em um editor (VS Code, por exemplo).
+
+Execute o código no terminal com:
+
+python nome_do_arquivo.py
+
+✍️ Autor
+
+Feito com dedicação por Kevin Michael Pacheco 🧠
+
+Meu primeiro projeto solo em Python.
