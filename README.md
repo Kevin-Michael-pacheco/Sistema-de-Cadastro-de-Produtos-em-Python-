@@ -24,7 +24,7 @@ Linguagem: Python 3
 
 Faça o download ou clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+https://github.com/Kevin-Michael-pacheco/Sistema-de-Cadastro-de-Produtos-em-Python-
 
 
 Abra o arquivo .py em um editor (VS Code, por exemplo).
